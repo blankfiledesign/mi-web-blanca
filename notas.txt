@@ -1,0 +1,6 @@
+linear-gradient(90deg, rgba(31,20,157,1) 5%, rgba(31,130,227,1) 55%, rgba(26,221,202,1) 93%);
+
+box-shadow: 0 0px 5px rgb(0, 0, 0);
+
+
+#f4f6fa;
