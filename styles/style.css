@@ -711,13 +711,16 @@ footer{
   color:#8a949d;
 }
 
-
 .foot{
+  display: flex;
   align-items: center;
+ 
 }
 
 footer img{
+  display: flex;
   width: 6em;
+  margin: auto;
 }
 
 
