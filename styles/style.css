@@ -711,11 +711,6 @@ footer{
   color:#8a949d;
 }
 
-.foot{
-  display: flex;
-  align-items: center;
- 
-}
 
 footer img{
   display: flex;
@@ -723,6 +718,10 @@ footer img{
   margin: auto;
 }
 
+.footer-main{
+  display: flex;
+  align-items: center;
+}
 
 #f-contact .wps{
   color: var(--color-body-ligth);
@@ -747,16 +746,15 @@ footer img{
   color: var(--color-letra) !important;
 }
 
-
-
-.copyright{
-    background-color: #1c242d;
-    display: flex;
-    justify-content: space-between;
-    align-content: center;
-    text-align: center;
+.footer-copy{
+  background-color: #1c242d;
 }
 
+.footer-copy .col-md-12{
+  display: flex;
+  justify-content: center;
+  padding-top: 15px ;
+}
 /*edition h*/ 
 
 
