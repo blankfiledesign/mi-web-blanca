@@ -29,7 +29,7 @@ a{
 
 
 body{
-  background-color: var(--color-body-ligth);
+  background-color: #f4f6fa;
     color: var(--color-letra);
     font-family: 'Montserrat', sans-serif;
     line-height: 1.6em;
@@ -277,6 +277,7 @@ body::-webkit-scrollbar-thumb{
 /*formulario*/
 
 /*hablemos*/
+
   
 .hablemos hr{
   width: 40%;
@@ -434,9 +435,6 @@ footer img{
   transition: .2s;
 }
 
-#linkf h5{
-  color: var(--color-letra) !important;
-}
 
 .footer-copy{
   background-color: #1c242d;
@@ -455,8 +453,7 @@ h3{
     font-weight: 600;
 }
 
-h4,
-.link2 a:hover{
+h4{
   display:inline-block;
   background: linear-gradient(-30deg, rgba(31,20,157,1) 5%, rgba(31,130,227,1) 55%, rgba(26,221,202,1) 93%);
     
@@ -546,10 +543,6 @@ button{
 
     #bannertop{
       padding-top: 20vh;
-    }
-
-    .cardi{
-      margin:20px
     }
 
     h3{
