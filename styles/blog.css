@@ -420,15 +420,13 @@ footer{
         height: 2px;
         opacity: 0;
       }
-      .cardi{
-        margin:10px
-      }
+
   
       h3{
         font-size: 1.9em;
       }
       
-      #a-inicio::after{
+      #a-blog::after{
         content: "";
           background:linear-gradient(90deg, rgba(31,20,157,1) 5%, rgba(31,130,227,1) 55%, rgba(26,221,202,1) 93%);
           position: absolute;
@@ -455,10 +453,7 @@ footer{
       .navbar-brand{
         padding-left: 0px;
       }
-  
-      .circle:hover{
-        transform: none;
-      }
+
   
       #bannertop h2{
           font-size: 2.4em;
@@ -467,26 +462,12 @@ footer{
       #bannertop{
         padding-top: 20vh;
       }
-  
-      .cardi{
-        margin:20px
-      }
+
   
       h3{
         font-size: 1.9em;
       }
-  
-      .meet img{
-        max-width: 85%;
-      }
-  
-      .boton2{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        align-content: center;
-        margin-top: 40px;
-      }
+
 
     }
   
