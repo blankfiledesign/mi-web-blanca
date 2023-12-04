@@ -226,7 +226,7 @@ body::-webkit-scrollbar-thumb{
 #bannertop {
   color: var(--color-body-ligth);
   min-height: 60vh;
-  padding-top: 10vh;
+  padding-top: 20vh;
     display: flex;
     align-items: center;
     text-align: center;

@@ -225,8 +225,8 @@ background: linear-gradient(90deg, rgba(31,20,157,1) 5%, rgba(31,130,227,1) 55%,
 
 #bannertop {
   color: var(--color-body-ligth);
-  min-height: 80vh;
-  padding-top: 10vh;
+  min-height: 70vh;
+  padding-top: 20vh;
     display: flex;
     align-items: center;
     text-align: center;
