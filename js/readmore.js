@@ -9,10 +9,10 @@ function toggleText(){
     hideText.classList.toggle('show');
 
     if(hideText.classList.contains('show')){
-        hideText_btn.innerHTML = 'Ver menos'
+        hideText_btn.innerHTML = 'Leer menos'
     }
     else {
-        hideText_btn.innerHTML = 'Ver más'
+        hideText_btn.innerHTML = 'Leer mas'
     }
 }
 
@@ -27,10 +27,10 @@ function toggleText2(){
     hideText2.classList.toggle('show2');
 
     if(hideText2.classList.contains('show2')){
-        hideText_btn2.innerHTML = 'Ver menos'
+        hideText_btn2.innerHTML = 'Leer menos'
     }
     else {
-        hideText_btn2.innerHTML = 'Ver más'
+        hideText_btn2.innerHTML = 'Leer mas'
     }
 }
 
@@ -45,9 +45,9 @@ function toggleText3(){
     hideText3.classList.toggle('show3');
 
     if(hideText3.classList.contains('show3')){
-        hideText_btn3.innerHTML = 'Ver menos'
+        hideText_btn3.innerHTML = 'Leer menos'
     }
     else {
-        hideText_btn3.innerHTML = 'Ver más'
+        hideText_btn3.innerHTML = 'Leer mas'
     }
 }
